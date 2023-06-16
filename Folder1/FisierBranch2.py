@@ -1,0 +1,1 @@
+print("Cand n-am insomnie, am bucurie")
